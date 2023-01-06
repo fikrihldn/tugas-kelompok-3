@@ -15,11 +15,6 @@
 - Buat database dengan nama "umn-bus-baru" di MySQL Server
 - Import SQL File dari folder database (gunakan yang umn-bus-baru)
 
-## Author
-- [Jericho Siahaya]( https://github.com/jerichosiahaya )
-- [Ricky Ng]( https://github.com/rickyreplying )
-- [Darren Riota]( https://github.com/VDarrenRiota )
-- [Chezar Ramadhan]( https://github.com/Chezar17 ) (membuat logo)
 
 ## Documentation
 - Login Page
